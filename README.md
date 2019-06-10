@@ -6,7 +6,7 @@ For this assignment, I created a memory game with React. This assignment require
 ![Image of Clicky Game](public/Clicky-3x2.jpg)
 
 **Submission on BCS**
-This assignment must be deployed. * Please submit both the deployed GitHub Pages link to your homework AND the link to the Github Repository! You can view the page here: [link to github.clicky-game](https://github.com/djreichel/clicky-game)
+This assignment must be deployed. * Please submit both the deployed GitHub Pages link to your homework AND the link to the Github Repository! You can view the page here: [github.clicky-game](https://github.com/djreichel/clicky-game)
 
 **Instructions**
 Create a new React application using Create React App.
@@ -23,4 +23,4 @@ This assignment must be deployed. Attempt to complete homework assignment as des
 You're reading it now.
 
 **Add To Your Portfolio**
-After completing the homework, I added the piece to my bootcamp portfolio. You can view the page here: [link to github.portfolio](https://djreichel.github.io/Bootstrap-Portfolio/portfolio.html)
+After completing the homework, I added the piece to my bootcamp portfolio. You can view the page here: [github.portfolio](https://djreichel.github.io/Bootstrap-Portfolio/portfolio.html)
