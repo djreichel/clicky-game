@@ -23,4 +23,4 @@ This assignment must be deployed. Attempt to complete homework assignment as des
 You're reading it now.
 
 **Add To Your Portfolio**
-After completing the homework, I added the piece to my bootcamp portfolio. You can view the page here: https://djreichel.github.io/Bootstrap-Portfolio/portfolio.html
+After completing the homework, I added the piece to my bootcamp portfolio. You can view the page here: [link to github]https://djreichel.github.io/Bootstrap-Portfolio/portfolio.html
